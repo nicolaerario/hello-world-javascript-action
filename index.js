@@ -1,4 +1,5 @@
-import core from '@actions/core';
+const core = require('@actions/core');
+const github = require('@actions/github');
 
 try {
   // Get input as defined in actions metadata file
