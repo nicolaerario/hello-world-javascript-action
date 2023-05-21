@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-javascript-action",
+  "version": "1.0.0",
+  "description": "Learn how to build a JavaScript action using the actions toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["github", "actions", "javascript"],
+  "author": "Nicola Erario",
+  "license": "MIT"
+}
